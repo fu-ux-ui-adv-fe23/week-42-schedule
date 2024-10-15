@@ -15,10 +15,10 @@ Under denna sista vecka med lektioner kommer vi titta på hur vi kan animera i R
 Inga presentationer denna vecka
 
 ### Inspelade föreläsningar
-
+* [Framer Motion](https://funet.sharepoint.com/:v:/s/FrontendutvecklareYH-Fe23Karlstad/EaiUPjqb7idBkQSrS7Irp4sBsiTslxeKA6Dkcuq6OIuvVA?e=VRAoG0)
 
 ### Lektionsrepon
-
+* [15 okt, Framer Motion](https://github.com/fu-ux-ui-adv-fe23/week-42-lecture-framer-motion)
 
 ### Filmer
 * [12 Principles of animation - YouTube](https://www.youtube.com/playlist?list=PL-bOh8btec4CXd2ya1NmSKpi92U_l6ZJd)
