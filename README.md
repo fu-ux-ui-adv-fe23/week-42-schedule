@@ -1,5 +1,5 @@
 # Schema, vecka 41
-###### UX / UI Fördjupning, vecka 2 av 4
+###### UX / UI Fördjupning, vecka 3 av 4
 
 ## Introduktion
 
